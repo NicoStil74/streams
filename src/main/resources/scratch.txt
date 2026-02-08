@@ -1,0 +1,12 @@
+name:Riley Reid;age:20;major:Computer Science;university:MIT;gpa:3.9;credits:90;standing:Honors
+name:Lana Rhoades;age:21;major:Computer Science;university:Stanford;gpa:3.7;credits:85;standing:Honors
+name:Mia Malkova;age:19;major:Mathematics;university:MIT;gpa:3.8;credits:60;standing:Honors
+name:Abella Danger;age:22;major:Physics;university:Caltech;gpa:3.6;credits:100;standing:Honors
+name:Angela White;age:20;major:Engineering;university:Stanford;gpa:3.4;credits:75;standing:Good
+name:Adriana Chechik;age:21;major:Computer Science;university:MIT;gpa:3.2;credits:80;standing:Good
+name:Mia Khalifa;age:19;major:Mathematics;university:Harvard;gpa:3.9;credits:65;standing:Honors
+name:Belle Delphine;age:23;major:Engineering;university:Caltech;gpa:2.8;credits:110;standing:Satisfactory
+name:Amouranth;age:20;major:Physics;university:Stanford;gpa:3.5;credits:70;standing:Honors
+name:Corinna Kopf;age:22;major:Computer Science;university:Harvard;gpa:3.1;credits:95;standing:Good
+name:Bhad Bhabie;age:21;major:Mathematics;university:MIT;gpa:2.9;credits:88;standing:Satisfactory
+name:Bella Thorne;age:19;major:Engineering;university:Stanford;gpa:3.8;credits:55;standing:Honors

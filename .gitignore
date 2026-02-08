@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Build directories
+target/
+build/
+bin/
+
+# Package Files
+*.jar
+*.war
+*.nar
+
+# Log files
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+hs_err_pid*
