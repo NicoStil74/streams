@@ -93,7 +93,7 @@ public final class StudentAnalytics {
 
     public static void main(String[] args) throws Exception {
         // Test your implementation
-        readStudents(StudentAnalytics.class.getClassLoader().getResource("students.txt").toURI());
+        readStudents(StudentAnalytics.class.getClassLoader().getResource("scratch.txt").toURI());
 
 
         System.out.println("=== Average GPA by Major ===");
